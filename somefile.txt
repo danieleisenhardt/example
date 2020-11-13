@@ -13,3 +13,10 @@ A list of fruit:
 - pear
 - orange
 
+A list of meat:
+
+- big game
+- small game
+- pork
+- beef
+- chicken
