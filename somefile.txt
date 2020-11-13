@@ -3,4 +3,5 @@ some content
 A list of fruit:
 - apple
 - banana
+- pear
 - orange
