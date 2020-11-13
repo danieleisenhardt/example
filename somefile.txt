@@ -1,5 +1,12 @@
 some content
 
+A list of Sodas:
+- cola
+- fanta
+- cassis
+- icetea
+- water?
+
 A list of nuts:
 - pecan
 - macadamia
