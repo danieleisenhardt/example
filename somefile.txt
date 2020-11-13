@@ -1,7 +1,15 @@
 some content
 
+Frisdranken:
+- cola
+- fanta
+- cassis
+- icetea
+- water?
+
 A list of fruit:
 - apple
 - banana
 - pear
 - orange
+
